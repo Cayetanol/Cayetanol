@@ -1,13 +1,8 @@
 <h1 align="center">Hola 👋, soy Cayetano</h1>
-<h3 align="center">Un apasionado autodidacta frontend de Argentina</h3>
 
 <p align="left"> <img src=" https://komarev.com/ghpvc/?username=cayetano&label=Profile%20views&color=0e75b6&style=flat" alt="cayetano" /> </p>
 
 <p align="left"> <a href="https:/ /github.com/ryo-ma/github-profile-tropico"><img src="https://github-profile-tropico.vercel.app/?username=cayetano" alt="cayetano" /></a > </p>
-
-- 🔭 Actualmente estoy trabajando en [Web Scraping](https://github.com/Cayetanol/scrap)
-
-- 📫 Cómo contactarme **cayetanolupo@gmail.com**
 
 <h3 align=" izquierda">Conéctate conmigo:</h3>
 <p align="izquierda">
