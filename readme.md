@@ -33,3 +33,4 @@ Actualmente estudio en la Tecnicatura en Programación (UTN) y estoy enfocado en
 ## 📫 Contacto
 
 * www.linkedin.com/in/cayetanolupo
+* Cv disponible a solicitud
